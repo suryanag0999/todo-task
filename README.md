@@ -1,4 +1,4 @@
-# Task - Todo Management App
+# Todo Management App With Local Storage Support
 
 iTask is a simple and efficient task management application built using React and Tailwind CSS. It allows users to add, edit, delete, and mark tasks as completed while persisting data using local storage.
 
